@@ -1,5 +1,5 @@
 <template>
-  <div v-if="loading" class="loader">Loading...</div>
+  <!-- <div v-if="loading" class="loader">Loading...</div> -->
   <div class="main">
     <img class="hello" alt="Vue logo" src="./assets/logo.png" />
     <ColorApp
