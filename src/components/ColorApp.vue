@@ -103,8 +103,8 @@ a {
 }
 
 .circle {
-  width: 200px;
-  height: 200px;
+  width: 10vw;
+  height: 10vw;
   border-radius: 50%;
   margin: 5px;
   background: black;
